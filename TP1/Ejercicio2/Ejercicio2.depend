@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787260706 source:c:\users\tomy\desktop\uns\2º año\2º cuatrimestre\orga\tps\tp1\ejercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
