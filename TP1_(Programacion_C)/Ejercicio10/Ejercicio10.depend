@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788017463 source:c:\users\tomy\desktop\uns\2º año\2º cuatrimestre\orga\tps\tp1_(programacion_c)\ejercicio10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
